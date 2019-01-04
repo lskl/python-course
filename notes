@@ -1,0 +1,64 @@
+_______________________________
+Day 1
+
+* Infinite loops and program flow
+* Flow diagrams
+* Variables
+* Scripts
+    - Interpreted vs. compiled
+    - Interactive mode
+    - Hello world! from notepad
+* for / if
+* Lists
+* and / or / not / in
+* print
+* input
+* val() / str()
+* Iterate over list
+* indentation
+
+_______________________________
+Day 2
+
+* with open file
+* iterate over file lines
+* sys.path (?)
+* Functions
+* return / tuple
+* Parameters
+* Library
+
+_______________________________
+Day 3
+
+* jupyter: repeat
+* Insert images
+* Markdown format
+* Formulas
+
+_______________________________
+Day 4
+
+* pandas
+* Open csv file
+* Open Excel file
+* Open Zineg file
+* Parse dates
+* Daily max/min/average
+
+_______________________________
+Day 5
+
+* matplotlib
+* Plot analytical functions
+* Plot Zineg file
+* matplotlib.dates
+_______________________________
+Day 6
+
+* Extras & review
+* tkinter
+* Classes
+* Curve fit (scipy)
+* Anova (statsmodels
+
