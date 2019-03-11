@@ -1,1 +1,5 @@
-These materials were created for an introductory course of python for data analysis in the horticultural sciences. They have an introduction to programming from the beginning, and later they introduce several libraries useful for data analysis, like numpy, pandas and matplotlib. The problems and examples are related with plant and environmental data science, and include topics like plant growth and climate calculations.
+These materials were created for an introductory course of python for data analysis in the horticultural sciences. 
+
+They have an introduction to programming from the beginning, and later they introduce several libraries useful for data analysis, like numpy, pandas and matplotlib. 
+
+The problems and examples are related with plant and environmental data science, and include topics like plant growth and climate calculations.
