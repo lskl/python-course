@@ -1,4 +1,4 @@
-These materials were created for an introductory course of python for data analysis in the horticultural sciences. 
+These materials were originally created for an introductory course of python for data analysis in the horticultural sciences, and later adapted for more general applications. 
 
 They have an introduction to programming from the beginning, and later they introduce several libraries useful for data analysis, like numpy, pandas and matplotlib. 
 
